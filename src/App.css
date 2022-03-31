@@ -1,0 +1,77 @@
+body{
+  background-image: url(https://www.rabstol.net/uploads/gallery/main/125/rabstol_net_world_of_tanks_26.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.name {
+  color: aqua;
+  font-size: xxx-large;
+  font-weight: bold;
+  margin-top: 70px;
+  text-align: center
+}
+.App {
+  text-align: center;
+  border: aqua 3px solid;
+  border-radius: 8px;
+  background-color: black;
+  margin: 100px auto;
+  width: 400px
+  }
+
+
+.maxCountValueDisabled {
+  color: red;
+  border: aqua 3px solid;
+  border-radius: 8px;
+  background-color: aqua;
+  font-weight: bold;
+  font-size: 100px;
+  margin: 10px auto;
+  width: 350px;
+}
+.minCountValueDisabled {
+  color: green;
+  border: aqua 3px solid;
+  border-radius: 8px;
+  background-color: aqua;
+  font-weight: bold;
+  font-size: 100px;
+  margin: 10px auto;
+  width: 350px;
+}
+
+.contValue {
+  color: aliceblue;
+  border: aqua 3px solid;
+  border-radius: 8px;
+  background-color: aqua;
+  font-weight: bold;
+  font-size: 100px;
+  margin: 10px auto;
+  width: 370px;
+}
+
+button {
+  border: aqua 3px solid;
+  border-radius: 8px;
+  color: black;
+  background-color: aqua;
+  font-size: 20px;
+}
+
+.btnDisabled {
+  border: gray 3px solid;
+  border-radius: 8px;
+  color: white;
+  background-color: gray;
+  font-size: 20px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+
+
+}
